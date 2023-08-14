@@ -1,13 +1,13 @@
 ---
 layout: about
-title: Menghao Li
+title: about
 permalink: /
 subtitle: State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China
  12130028@zju.edu.cn
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic
   image_circular: False # crops the image to make it circular
   address: >
     Zhejiang University, Hangzhou, Zhejiang Province, China
