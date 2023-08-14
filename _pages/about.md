@@ -8,7 +8,7 @@ subtitle: State Key Laboratory of Extreme Photonics and Instrumentation, Zhejian
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   address: >
     Zhejiang University, Hangzhou, Zhejiang Province, China
 
@@ -19,3 +19,5 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Menghao Li receives the B.S. degree from Nanjing University, Nanjing, China, in 2021. He is currently pursuing the PH.D. degree with Zhejiang University,Hangzhou, China. His research interests include imaging simulation and image restoration.
+
+Research interset: imaging simulation, image restoration
