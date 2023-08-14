@@ -7,7 +7,7 @@ subtitle: State Key Laboratory of Extreme Photonics and Instrumentation, Zhejian
 
 profile:
   align: right
-  image: prof_pic
+  image: prof_pic.jpg
   image_circular: False # crops the image to make it circular
   address: >
     Zhejiang University, Hangzhou, Zhejiang Province, China
