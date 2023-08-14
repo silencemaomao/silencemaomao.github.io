@@ -8,8 +8,7 @@ middle_name:
 last_name: Li
 email: 12130028@zju.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-   Menghao Li receives the B.S. degree from Nanjing University, Nanjing, China, in 2021. He is currently pursuing the PH.D. degree with Zhejiang University,
-Hangzhou, China. His research interests include imaging simulation and image restoration.
+   Menghao Li receives the B.S. degree from Nanjing University, Nanjing, China, in 2021. He is currently pursuing the PH.D. degree with Zhejiang University, Hangzhou, China. His research interests include imaging simulation and image restoration.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
