@@ -1,22 +1,21 @@
 ---
 layout: about
-title: about
+title: Menghao Li
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang Univerity, Hangzhou, China
+ 12130028@zju.edu.cn
 
 profile:
   align: right
-  image: menghao_Li.png
+  image: prof.pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    Zhejiang University, Hangzhou, Zhejiang Province, China
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 Menghao Li receives the B.S. degree from Nanjing University, Nanjing, China, in 2021. He is currently pursuing the PH.D. degree with Zhejiang University,Hangzhou, China. His research interests include imaging simulation and image restoration.
